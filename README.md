@@ -56,3 +56,11 @@
 - [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/14_Data%20Visualization%20using%20Plotnine.ipynb)] Data Visualization using Plotnine
 
 </details>
+
+## SQL Module <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
+
+<details><summary>Daftar Kelas</summary>
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/14_Data%20Visualization%20using%20Plotnine.ipynb)] Data Visualization using Plotnine
+
+</details>
