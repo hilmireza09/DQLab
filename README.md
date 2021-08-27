@@ -61,6 +61,14 @@
 
 <details><summary>Daftar Kelas</summary>
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/14_Data%20Visualization%20using%20Plotnine.ipynb)] Data Visualization using Plotnine
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/1_Fundamental%20SQL%20Using%20SELECT%20Statement.sql)] Fundamental SQL Using SELECT Statement
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/2_Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY.sql)] Fundamental SQL Using FUNCTION and GROUP BY
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/3_Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION.sql)] Fundamental SQL Using INNER JOIN and UNION
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/4_Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Fundamental SQL Group By and Having
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/5_Project%20Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Project Fundamental SQL Group By and Having
 
 </details>
