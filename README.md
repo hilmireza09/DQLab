@@ -33,12 +33,26 @@
 
 - [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/3_Python%20for%20Data%20Professional%20Beginner%20-%20Part%203.ipynb)] Python for Data Professional Beginner - Part 3
 
-
-
 - [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/4_Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner.ipynb)] Exploratory Data Analysis with Python for Beginner
 
 - [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/5_Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201.ipynb)] Data Visualization with Python Matplotlib for Beginner - Part 1
 
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/6_Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202.ipynb)] Data Visualization with Python Matplotlib for Beginner - Part 2
 
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/7_%20Data%20Quality%20with%20Python%20for%20Beginner.ipynb)] Data Quality with Python for Beginner
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/8_Machine%20Learning%20With%20Python%20for%20Beginner.ipynb)] Machine Learning With Python for Beginner
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/9_Fundamental%20Data%20Visualization%20with%20Python.ipynb)] Fundamental Data Visualization with Python
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/10_Data%20Manipulation%20with%20Pandas%20-%20Part%201.ipynb)] Data Manipulation with Pandas - Part 1
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/11_Data%20Manipulation%20with%20Pandas%20-%20Part%202.ipynb)] Data Manipulation with Pandas - Part 2
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/12_Statistic%20using%20Python%20for%20Data%20Science%20-%20Part%201.ipynb)] Statistic using Python for Data Science - Part 1
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/13_Statistic%20using%20Python%20for%20Data%20Science%20-%20Part%202.ipynb)] Statistic using Python for Data Science - Part 2
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/14_Data%20Visualization%20using%20Plotnine.ipynb)] Data Visualization using Plotnine
 
 </details>
