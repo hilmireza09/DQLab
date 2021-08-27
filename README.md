@@ -29,6 +29,8 @@
 
 - [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/1_Python%20for%20Data%20Professional%20Beginner%20-%20Part%201.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Python for Data Professional Beginner - Part 1
 
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/2_Python%20for%20Data%20Professional%20Beginner%20-%20Part%202.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Python for Data Professional Beginner - Part 2
 
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/3_Python%20for%20Data%20Professional%20Beginner%20-%20Part%203.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Python for Data Professional Beginner - Part 3
 
 </details>
