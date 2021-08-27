@@ -1,7 +1,7 @@
 <br />
 
 <p align="center">
-  <a href='https://academy.dqlab.id/main/learn_more'><img src="README/DQ_Lab2.png"></a>
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="pic/dqlab_logo.png"></a>
 </p>
 
 <br />
@@ -13,7 +13,7 @@
 
 <h1 align="center">DQLab Modules</h1>
 
-## R Module <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
+## R Module <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
@@ -23,7 +23,7 @@
 
 </details>
 
-## Python Module <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
+## Python Module <a href='pic/python.png'><img src='pic/python.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
@@ -57,7 +57,7 @@
 
 </details>
 
-## SQL Module <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
+## SQL Module <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
