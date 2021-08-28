@@ -17,9 +17,27 @@
 
 <details><summary>Daftar Kelas</summary>
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/111)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/1_Data%20Preparation%20in%20Data%20Science%20using%20R.R)] Data Preparation in Data Science using R
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/1)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/2_Statistics%20using%20R%20for%20Data%20Science.R)] Statistics using R for Data Science
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/3_Data%20Visualization%20in%20Data%20Science%20using%20R.R)] Data Visualization in Data Science using R
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/4_Fundamental%20Data%20Visualization%20using%20R.R)] Fundamental Data Visualization using R
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/5_Advanced%20Data%20Visualization%20with%20ggplot2%20using%20R.R)] Advanced Data Visualization with ggplot2 using R
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/6_Data%20Science%20in%20Finance%20Credit%20Risk%20Analysis.R)] Data Science in Finance Credit Risk Analysis
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/7_Data%20Science%20in%20Retail%20Market%20Basket%20Analysis.R)] Data Science in Retail Market Basket Analysis
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/8_Data%20Science%20in%20Marketing%20Customer%20Segmentation.R)] Data Science in Marketing Customer Segmentation
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/9_Data%20Science%20in%20Finance%20Dimension%20Reduction.R)] Data Science in Finance Dimension Reduction
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/10_Analisis%20Data%20COVID19%20di%20Indonesia.R)] Analisis Data COVID19 di Indonesia
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/11_A%20Walk%20Into%20Sensory%20Science.R)] A Walk Into Sensory Science
 
 </details>
 
@@ -79,7 +97,7 @@
 
 <details><summary>Daftar Project</summary>
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/5_Project%20Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Project Fundamental SQL Group By and Having
+- [[🔒](https://github.com/hilmireza09/DQLab/blob/main/README.md)] coming soon
 
 </details>
 
