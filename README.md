@@ -97,7 +97,7 @@
 
 <details><summary>Daftar Project</summary>
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/5_Project%20Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Project Fundamental SQL Group By and Having
+- [[🔒](https://github.com/hilmireza09/DQLab/blob/main/README.md)] coming soon
 
 </details>
 
