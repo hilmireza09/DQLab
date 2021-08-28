@@ -11,7 +11,10 @@
 
 <br />
 
-<h1 align="center">DQLab Modules</h1>
+<h1 align="center">Skill Track</h1>
+<p align="center">
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="pic/skill_track.jpg"></a>
+</p>
 
 ## R Module <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
 
