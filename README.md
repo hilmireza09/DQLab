@@ -1,7 +1,7 @@
 <br />
 
 <p align="center">
-  <a href='https://academy.dqlab.id/main/learn_more'><img src="README/DQ_Lab2.png"></a>
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="pic/dqlab_logo.png"></a>
 </p>
 
 <br />
@@ -13,7 +13,7 @@
 
 <h1 align="center">DQLab Modules</h1>
 
-## R Module <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
+## R Module <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
@@ -23,7 +23,7 @@
 
 </details>
 
-## Python Module <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
+## Python Module <a href='pic/python.png'><img src='pic/python.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
@@ -57,9 +57,51 @@
 
 </details>
 
-## SQL Module <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
+## SQL Module <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/1_Fundamental%20SQL%20Using%20SELECT%20Statement.sql)] Fundamental SQL Using SELECT Statement
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/2_Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY.sql)] Fundamental SQL Using FUNCTION and GROUP BY
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/3_Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION.sql)] Fundamental SQL Using INNER JOIN and UNION
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/4_Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Fundamental SQL Group By and Having
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/5_Project%20Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Project Fundamental SQL Group By and Having
+
+</details>
+
+<h1 align="center">DQLab Project</h1>
+
+## R Project <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
+
+<details><summary>Daftar Project</summary>
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/5_Project%20Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Project Fundamental SQL Group By and Having
+
+</details>
+
+## Python Project <a href='pic/python.png'><img src='pic/python.png' align="right" height="40" /></a>
+
+<details><summary>Daftar Project</summary>
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/1_Data%20Science%20Challenge%20with%20Python.ipynb)] Data Science Challenge with Python
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/2_Data%20Engineer%20Challenge%20with%20Python.ipynb)] Data Engineer Challenge with Python
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/3_Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System.ipynb)] Project Machine Learning with Python Building Recommender System
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/4_Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System%20with%20Similarity%20Function.ipynb)] Project Machine Learning with Python Building Recommender System with Similarity Function
+
+- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/5_Project%20Simple%20ETL%20with%20Pandas.ipynb)] Project Simple ETL with Pandas
+
+</details>
+
+## SQL Project <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="40" /></a>
+
+<details><summary>Daftar Project</summary>
 
 - [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/1_Fundamental%20SQL%20Using%20SELECT%20Statement.sql)] Fundamental SQL Using SELECT Statement
 
