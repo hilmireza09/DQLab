@@ -95,6 +95,9 @@
 </details>
 
 <h1 align="center">DQLab Project</h1>
+<p align="center">
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="pic/project.jpg"></a>
+</p>
 
 ## R Project <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
 
