@@ -11,9 +11,12 @@
 
 <br />
 
-<h1 align="center">DQLab Modules</h1>
+<h1 align="center">Skill Track</h1>
+<p align="center">
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="pic/skill_track.jpg"></a>
+</p>
 
-## R Module <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
+## R Module <a href='pic/r.png'><img src='pic/r.png' align="right" height="42" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
@@ -41,7 +44,7 @@
 
 </details>
 
-## Python Module <a href='pic/python.png'><img src='pic/python.png' align="right" height="40" /></a>
+## Python Module <a href='pic/python.png'><img src='pic/python.png' align="right" height="42" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
@@ -75,7 +78,7 @@
 
 </details>
 
-## SQL Module <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="40" /></a>
+## SQL Module <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="42" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
@@ -92,8 +95,11 @@
 </details>
 
 <h1 align="center">DQLab Project</h1>
+<p align="center">
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="pic/project.jpg"></a>
+</p>
 
-## R Project <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
+## R Project <a href='pic/r.png'><img src='pic/r.png' align="right" height="42" /></a>
 
 <details><summary>Daftar Project</summary>
 
@@ -101,7 +107,7 @@
 
 </details>
 
-## Python Project <a href='pic/python.png'><img src='pic/python.png' align="right" height="40" /></a>
+## Python Project <a href='pic/python.png'><img src='pic/python.png' align="right" height="42" /></a>
 
 <details><summary>Daftar Project</summary>
 
@@ -117,7 +123,7 @@
 
 </details>
 
-## SQL Project <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="40" /></a>
+## SQL Project <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="42" /></a>
 
 <details><summary>Daftar Project</summary>
 
